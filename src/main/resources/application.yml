@@ -1,0 +1,7 @@
+server:
+  port: 2019
+
+#设置开发/生产模式
+spring:
+  profiles:
+    active: prod

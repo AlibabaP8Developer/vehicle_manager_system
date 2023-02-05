@@ -1,7 +1,0 @@
-server:
-  port: 6060
-
-#设置开发/生产模式
-spring:
-  profiles:
-    active: dev
